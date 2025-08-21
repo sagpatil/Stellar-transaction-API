@@ -7,7 +7,7 @@ yarn-error.log*
 # Environment variables
 .env
 config.env
-config.*.env
+
 
 # Logs
 logs
